@@ -1,0 +1,38 @@
+// Final Project - Milestone 5
+// Name: Qirong Fu
+// Student #: 158899179
+// Course: OOP244 Fall 2018
+// File: ms5_Allocator.cpp
+
+// Final Project - Milestone 5
+// Version 3.4
+// ms5_Allocator.cpp
+// 2018-10-18
+// Authors	Fardad Soleimanloo, Chris Szalwinski
+//
+// For you final test before submission:
+//      DO NOT MODIFY THIS FILE IN ANY WAY
+//
+// Revision History
+// -----------------------------------------------------------
+// Name               Date                 Reason
+// Chris              2018-10-18           fall 2018
+/////////////////////////////////////////////////////////////////
+#include <iostream>
+#include "Good.h"
+#include "Perishable.h"
+
+namespace aid {
+
+	// creates an empty good
+	//
+	iGood* CreateGood() {
+		return new Good();
+	}
+
+	// creates an empty perishable good
+	//
+	iGood* CreatePerishable() {
+		return new Perishable();
+	}
+}
