@@ -1,9 +1,3 @@
-// Final Project - Milestone 5
-// Name: Qirong Fu
-// Student #: 158899179
-// Course: OOP244 Fall 2018
-// File: Error.cpp
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
