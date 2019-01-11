@@ -1,9 +1,3 @@
-// Final Project - Milestone 5
-// Name: Qirong Fu
-// Student #: 158899179
-// Course: OOP244 Fall 2018
-// File: iGood.h
-
 #ifndef AID_iGood_H
 #define AID_iGood_H
 
