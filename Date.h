@@ -1,20 +1,3 @@
-// Final Project - Milestone 5
-// Name: Qirong Fu
-// Student #: 158899179
-// Course: OOP244 Fall 2018
-// File: Date.h
-
-// Final Project Milestone 1
-//
-// Version 1.0
-// Date
-// Author
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 #ifndef AMA_DATE_H
 #define AMA_DATE_H
 
